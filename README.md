@@ -2,7 +2,7 @@
 
 A calendar-based tracker for campus placement season — log every company's rounds (OA, interviews, HR, etc.), see them laid out on a calendar, and track status per round. If a company rejects you at round one, you can easily remove remove the rest of the rounds from the calendar. 
 
-**Live demo:** https://placement-tracker-maya.vercel.app 
+**Live demo:** [https://placement-tracker-maya.vercel.app ](https://placement-tracker-maya.vercel.app/)
 
 ## Features
 
